@@ -30,21 +30,21 @@ The following topics are covered:
 
 ## Slides
 You can `rightclick - Save as` the 
-[html notebook with R output](https://github.com/brry/rhydro/raw/master/presentations/rhydro.nb.html)
+[html notebook with R output](https://github.com/hydrosoc/rhydro_EGU17/raw/master/presentations/rhydro.nb.html)
 and then open the html document in a regular browser.  
-For smartphones, you can try the [pdf](https://github.com/brry/rhydro/raw/master/presentations/rhydro.pdf)
+For smartphones, you can try the [pdf](https://github.com/hydrosoc/rhydro_EGU17/raw/master/presentations/rhydro.pdf)
 (without the interactive graphs).
 
 To get all the material including the datasets and presentation source code, we recommend to
-[download the whole github course repository](https://github.com/brry/rhydro/archive/master.zip).
+[download the whole github course repository](https://codeload.github.com/hydrosoc/rhydro_EGU18/zip/master).
 
 
 
 ## Checks
 You can check if your laptop is prepared for the course by running the
-[checkpc](https://github.com/brry/rhydro/blob/master/checkpc.R) script in your R console:
+[checkpc](https://github.com/hydrosoc/rhydro_EGU17/blob/master/checkpc.R) script in your R console:
 ```R
-source("https://raw.githubusercontent.com/brry/rhydro/master/checkpc.R")
+source("https://raw.githubusercontent.com/hydrosoc/rhydro_EGU17/master/checkpc.R")
 ```
 This will give instructions if packages are missing / outdated.
 
