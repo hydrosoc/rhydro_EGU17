@@ -1,8 +1,12 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2554019.svg)](https://doi.org/10.5281/zenodo.2554019)
+
+
 [Details](#Details) 
 / [Topics](#Topics) 
 / [Slides](#Slides) 
 / [Check](#Checks) 
 / [Resources](#Resources) 
+/ [Citation](#Citation)
 
 # Using R in Hydrology - EGU2017 Short Course
 
@@ -66,3 +70,12 @@ More resources and R installation instructions at
 
 * [github.com/brry/course](https://github.com/brry/course#install)
 
+## Citation
+
+Please refer to this work as:
+
+* Berry Boessenkool, Shaun Harrigan, Katie Smith, & Daniel Klotz. (2019, January). Using R in Hydrology at EGU2017 (Version 1.0.0). Zenodo. http://doi.org/10.5281/zenodo.2554019
+
+```
+@misc{rhydro_EGU2017, title={Using R in Hydrology at EGU2017}, DOI={10.5281/zenodo.2554019}, abstractNote={<p>This repository contains all contributions to the <a href="http://meetingorganizer.copernicus.org/EGU2017/session/25731">short course delivered at EGU 2018</a>. Materials to this and other short courses can be found on the <a href="https://github.com/hydrosoc">YHS GitHub repository</a>.</p>}, publisher={Zenodo}, author={Berry Boessenkool and Shaun Harrigan and Katie Smith and Daniel Klotz}, year={2019}, month={Jan}}
+```
