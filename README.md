@@ -1,19 +1,22 @@
-[course](#course) 
-/ [topics](#topics) 
-/ [slides](#slides) 
-/ [check](#check) 
-/ [resources](#resources) 
+[Details](#Details) 
+/ [Topics](#Topics) 
+/ [Slides](#Slides) 
+/ [Check](#Checks) 
+/ [Resources](#Resources) 
 
-### course
-Using R in Hydrology - [EGU2017 Short Course](http://meetingorganizer.copernicus.org/EGU2017/session/25731) by YHS  
-Instructors: Shaun Harrigan, Katie Smith, Berry Boessenkool and Daniel Klotz  
-Organizer: Berry Boessenkool, Potsdam University (Germany), <berry-b@gmx.de>
+# Using R in Hydrology - EGU2017 Short Course
+
+**(Co-)Conveners and Instructors**: Berry Boessenkool (C, I), Shaun Harrigan (Co-C), Katie Smith (Co-C), and Daniel Klotz (I) 
+**Contact**: Berry Boessenkool, Potsdam University (Germany), <berry-b@gmx.de>
 
 You are invited to post and discuss questions in the 
 [Hydrology in R Facebook group](https://www.facebook.com/groups/1130214777123909/).
 
+## Details 
+- **Where?**  Monday, 24 April, 15:30–17:00  / Room -2.31  (*basement!*); 
+- **Course Description**: http://meetingorganizer.copernicus.org/EGU2018/session/28914
 
-### topics
+## Topics
 This course is directed primarily at hydrologists interested in using R for their research.
 You will get (a) an impression of how powerful R is as a tool and (b) all the code to get started yourself.
 The following topics are covered:
@@ -25,7 +28,7 @@ The following topics are covered:
 * Trend Analysis in R (`trend` + `hydroTSM`)
 
 
-### slides
+## Slides
 You can `rightclick - Save as` the 
 [html notebook with R output](https://github.com/brry/rhydro/raw/master/presentations/rhydro.nb.html)
 and then open the html document in a regular browser.  
@@ -37,7 +40,7 @@ To get all the material including the datasets and presentation source code, we 
 
 
 
-### check
+## Checks
 You can check if your laptop is prepared for the course by running the
 [checkpc](https://github.com/brry/rhydro/blob/master/checkpc.R) script in your R console:
 ```R
@@ -46,7 +49,7 @@ source("https://raw.githubusercontent.com/brry/rhydro/master/checkpc.R")
 This will give instructions if packages are missing / outdated.
 
 
-### resources
+## Resources
 * [R-Resources for Hyrology](http://abouthydrology.blogspot.co.uk/2012/08/r-resources-for-hydrologists.html) - huge list of R-resources about hydrology
 * [hdtools](https://ropensci.github.io/hddtools/) - R package to facilitate access to a variety of online open data sources relevant for hydrologists
 * [rdwd](https://github.com/brry/rdwd#rdwd) - R package specifically for German meteorological data
