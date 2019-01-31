@@ -14,7 +14,7 @@ You are invited to post and discuss questions in the
 
 ## Details 
 - **Where?**  Monday, 24 April, 15:30–17:00  / Room -2.31  (*basement!*); 
-- **Course Description**: http://meetingorganizer.copernicus.org/EGU2018/session/28914
+- **Course Description**: http://meetingorganizer.copernicus.org/EGU2017/session/25731
 
 ## Topics
 This course is directed primarily at hydrologists interested in using R for their research.
